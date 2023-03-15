@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278438517056",
+    "project_id": "noteapplication-efc87",
+    "storage_bucket": "noteapplication-efc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278438517056:android:098f1a0e4b1505a6ca42a5",
+        "android_client_info": {
+          "package_name": "com.e.aziz.noteapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278438517056-77tq1l4oad75nftgh3f25o3qqejlobrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETIXtl4qYgF4DoQYEKNIh6hRfZXQM4rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278438517056-77tq1l4oad75nftgh3f25o3qqejlobrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
